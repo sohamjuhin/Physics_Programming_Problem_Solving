@@ -19,6 +19,3 @@ T = 2 * pi * sqrt(L/g);
 fprintf('The period of the pendulum is %.2f seconds.\n', T);
 
 
-%In this example, we assume the ball has a mass of 1 kg, an initial velocity of 10 m/s, and a force of 5 N acting on it. After 2 seconds, the ball has traveled a total distance of 30 meters.
-
-%You can modify the input variables to solve the problem for different scenarios.
