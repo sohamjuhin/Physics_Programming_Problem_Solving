@@ -18,4 +18,6 @@ T = 2 * pi * sqrt(L/g);
 % Display result
 fprintf('The period of the pendulum is %.2f seconds.\n', T);
 
+%In this example, we assume the pendulum has a length of 1 meter, a mass of 0.1 kg, and is located on Earth where the acceleration due to gravity is 9.81 m/s^2. The period of the pendulum is calculated to be approximately 2.01 seconds.
 
+%You can modify the input variables to solve the problem for different scenarios.
