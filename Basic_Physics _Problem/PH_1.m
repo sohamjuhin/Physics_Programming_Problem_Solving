@@ -17,3 +17,6 @@ x = (1/2) * (F/m) * t^2 + v * t;
 % Display result
 fprintf('The ball has traveled %.2f meters.\n', x);
 
+%In this example, we assume the ball has a mass of 1 kg, an initial velocity of 10 m/s, and a force of 5 N acting on it. After 2 seconds, the ball has traveled a total distance of 30 meters.
+
+%You can modify the input variables to solve the problem for different scenarios.
